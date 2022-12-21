@@ -1,4 +1,4 @@
-# Chú ý: Lớp 65CS1 và 65CS3 thi chung phòng 32H2
+# Chú ý: Lớp 65CS1 và 65CS3 thi chung phòng 32H2, giờ làm bài 7h30 - 9h10
 Sinh viên vào hàng ngày trước khi thi để xem các cập nhật.
 
 # Hình thức thi
