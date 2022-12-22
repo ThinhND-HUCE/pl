@@ -1,4 +1,4 @@
-# Chú ý: Lớp 65CS1 và 65CS3 thi chung phòng 32H2, giờ làm bài 7h30 - 9h10
+# Chú ý:
 Sinh viên vào hàng ngày trước khi thi để xem các cập nhật.
 
 # Hình thức thi
@@ -20,5 +20,3 @@ Các bài tập (b) và (c), sinh viên copy mã vào Word hoặc LaTeX, ảnh c
 Trọng số điểm phần multichoice dao động từ 30 - 50%.
 
 Điểm cộng: LaTeX: 0.5đ. SV không được 10đ nếu chỉ lập trình bằng 1 ngôn ngữ
-
-
